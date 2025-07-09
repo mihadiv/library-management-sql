@@ -1,37 +1,43 @@
 # 📚 Library Management - SQL & PL/SQL Projects 
 
-Acest repository conține două proiecte academice dezvoltate în cadrul cursurilor de Baze de Date (BD) și Sisteme de Gestiune a Bazelor de Date (SGBD). Proiectele simulează o aplicație de gestiune a unei librării, oferind o abordare completă a modelării datelor și a prelucrării acestora folosind limbajele SQL și PL/SQL.
+This repository contains two academic projects developed during university courses on Databases (BD) and Database Management Systems (SGBD). The projects simulate a bookstore management application, providing a comprehensive approach to data modeling and manipulation using SQL and PL/SQL.
 
 ---
 
-## 📌 Structura proiectelor
+## 📌 Project Structure
 
-### 1. **Proiect BD (Baze de Date)**
-- Crearea tabelelor: `CARTI`, `CLIENTI`, `VANZATORI`, `TRANZACTII`
-- Scripturi DDL și DML
-- Interogări SQL pentru:
-  - Raportări (vânzări, clienți fără comenzi, vechime angajați etc.)
-  - Categorii de prețuri
-  - Actualizări de stocuri
-  - Viziuni (views), indici, sinonime, secvențe
-- Optimizarea structurii bazei de date
+### 1. **Database Project (BD)**
+- Table creation: `CARTI`, `CLIENTI`, `VANZATORI`, `TRANZACTII`
+- DDL and DML scripts
+- SQL queries for:
+  - Reports (sales, customers with no orders, employee seniority, etc.)
+  - Price categorization
+  - Stock updates
+  - Views, indexes, synonyms, sequences
+- Database structure optimization
 
-### 2. **Proiect SGBD (Sisteme de Gestiune a Bazelor de Date)**
-- Programe PL/SQL:
-  - Funcții și proceduri
-  - Cursori (simpli și cu parametri)
-  - Tablouri (VARRAY, colecții)
-  - Pachete (cu funcții și proceduri)
-  - Triggere pentru integritate și validare
-- Tratarea excepțiilor
-- Operațiuni dinamice cu `EXECUTE IMMEDIATE`
+### 2. **DBMS Project (SGBD)**
+- PL/SQL programs:
+  - Functions and procedures
+  - Cursors (simple and parameterized)
+  - Arrays (VARRAY, collections)
+  - Packages (with functions and procedures)
+  - Triggers for integrity and validation
+- Exception handling
+- Dynamic operations using `EXECUTE IMMEDIATE`
 
 ---
 
-## 🗃️ Tehnologii utilizate
-- Oracle SQL
-- PL/SQL
+## 🗃️ Technologies Used
+- Oracle SQL  
+- PL/SQL  
 - SQL Developer / Oracle DB
+
+---
+
+## 📄 Language Notice  
+All project content is written in Romanian, based on academic requirements.
+
 
 
 
