@@ -36,8 +36,7 @@ This repository contains two academic projects developed during university cours
 ---
 
 ## 📄 Language Notice  
-All project content is written in Romanian, based on academic requirements.
-
+The projects are written in Romanian, as required by the university coursework.
 
 
 
