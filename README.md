@@ -1,4 +1,4 @@
-# Library Management - SQL & PL/SQL Projects 📚
+# 📚 Library Management - SQL & PL/SQL Projects 
 
 Acest repository conține două proiecte academice dezvoltate în cadrul cursurilor de Baze de Date (BD) și Sisteme de Gestiune a Bazelor de Date (SGBD). Proiectele simulează o aplicație de gestiune a unei librării, oferind o abordare completă a modelării datelor și a prelucrării acestora folosind limbajele SQL și PL/SQL.
 
